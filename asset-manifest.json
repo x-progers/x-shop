@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/x-progers/x-shop/static/css/main.073c9b0a.css",
-    "main.js": "/x-progers/x-shop/static/js/main.6a11e251.js",
-    "static/js/787.28cb0dcd.chunk.js": "/x-progers/x-shop/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/x-progers/x-shop/index.html",
-    "main.073c9b0a.css.map": "/x-progers/x-shop/static/css/main.073c9b0a.css.map",
-    "main.6a11e251.js.map": "/x-progers/x-shop/static/js/main.6a11e251.js.map",
-    "787.28cb0dcd.chunk.js.map": "/x-progers/x-shop/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/x-shop/static/css/main.073c9b0a.css",
+    "main.js": "/x-shop/static/js/main.b73ccf5c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/x-shop/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/x-shop/index.html",
+    "main.073c9b0a.css.map": "/x-shop/static/css/main.073c9b0a.css.map",
+    "main.b73ccf5c.js.map": "/x-shop/static/js/main.b73ccf5c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/x-shop/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.6a11e251.js"
+    "static/js/main.b73ccf5c.js"
   ]
 }
