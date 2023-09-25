@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      X-Progers
+      <h1>X-Progers</h1>
     </div>
   );
 }

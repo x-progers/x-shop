@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/x-progers/x-shop",
+  "homepage": "https://x-progers.github.io/x-shop/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
