@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import TestComponent from '@components/test-component/TestComponent';
+import { TestComponent } from '@components';
 
 
 function App() {
