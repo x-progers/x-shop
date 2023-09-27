@@ -1,10 +1,12 @@
 import React from 'react';
-
 import './App.css';
+import TestComponent from '@components/test-component/TestComponent';
+
 
 function App() {
   return (
     <div className="App">
+      <TestComponent/>
       <h1>X-Progers</h1>
       <h2>New-Progers</h2>
     </div>
