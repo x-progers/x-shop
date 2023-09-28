@@ -1,23 +1,13 @@
-
-module.exports= {
-        presets: ["env"],
-        plugins: [
-            [
-              require.resolve('babel-plugin-module-resolver'),
-              {
-                cwd: 'babelrc',
-                extensions: [
-                  '.js',
-                  '.jsx',
-                  '.ts',
-                  '.tsx'
-                ],
-                root: ['src'],
-                alias: {
-                    "@components": ["src/components/components"],
-                    "@constants": ["src/constants/constants"]
-                },
-              },
-            ],
-          ]
-}
+module.exports = {
+  plugins: [
+    [
+      'module-resolver',
+      {
+        alias: {
+          '@components': './src/components',
+        },
+      },
+    ],
+  ],
+  presets: ['@babel/preset-env', '@babel/preset-react', '@babel/preset-typescript'],
+};
