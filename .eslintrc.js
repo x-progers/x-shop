@@ -12,6 +12,7 @@ module.exports = {
         'plugin:react-hooks/recommended',
         'plugin:import/recommended',
         'airbnb',
+        "airbnb-typescript"
     ],
     overrides: [
         {
